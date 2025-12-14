@@ -19,4 +19,3 @@ The exam focuses on demonstrating proficiency in advanced data preparation, stat
 
 ***
 *Course: Advanced Programming (Shenkar College, IE&M)*
-
