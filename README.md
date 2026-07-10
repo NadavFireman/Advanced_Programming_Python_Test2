@@ -1,8 +1,8 @@
-# Advanced Programming: Exam 2 Solution - Customer Analysis & Clustering
+# Advanced Programming: Exam 2 Solution - Customer Analysis
 
 This repository contains the solution for the second mock exam in the Advanced Programming course (Shenkar College, IE&M).
 
-The exam focuses on demonstrating proficiency in advanced data preparation, statistical querying using Pandas, and implementation of foundational Machine Learning concepts like feature engineering and clustering.
+The exam focuses on demonstrating proficiency in advanced data preparation, statistical querying using Pandas, and implementation of foundational Machine Learning concepts like feature engineering.
 
 ## Key Skills Demonstrated
 
